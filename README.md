@@ -1,3 +1,11 @@
+![banner](./1.jpg)
+
+# About me
+
+- #### I'm a 20 years old Data Science student
+- #### I like competitive programming
+- #### I´m currently learning about Data Analysis 
+- #### I love data visualization
 
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=PablooDario&show_icons=true&theme=transparent"/>
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablooDario"/>
