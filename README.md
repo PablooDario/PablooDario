@@ -1,14 +1,17 @@
 ![banner](./1.jpg)
 
-# About me
+<h1 align="center">Hi 👋, I'm Pablo</h1>
+<h3 align="center">A 20 years old Data Science student</h3>
 
-- #### I'm a 20 years old Data Science student
-- #### I like competitive programming
-- #### I´m currently learning about Data Analysis 
-- #### I love data visualization
+- 🔭 I love **data visualization**
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=PablooDario&show_icons=true&theme=transparent"/>
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablooDario"/>
+- 🌱 I’m currently learning **Data Analysis**
+
+- 💬 I like **Competitive Programming**
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PablooDario&show_icons=true&theme=transparent"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablooDario"/> <br/>
+
 
 # Languajes & Tools I Know 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -22,15 +25,15 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 # Languajes & Tools I will learn
+<a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 # Social Network
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://codeforces.com/profile/atlantispablo" target="blank">![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)</a>
+<a href="https://www.leetcode.com/atlantispablo" target="blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://www.linkedin.com/in/pablo-s-469947268/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
