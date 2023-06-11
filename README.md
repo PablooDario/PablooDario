@@ -1,5 +1,6 @@
-![banner](./1.jpg)
-
+<p align="center">
+  <img src="https://github.com/anuraghazra/github-readme-stats/assets/92002964/c1313257-e8d6-4039-952d-91d97923f697">
+</p>
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">A 20 years old Data Science student</h3>
 
@@ -9,8 +10,9 @@
 
 - 💬 I like **Competitive Programming**
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PablooDario&show_icons=true&theme=transparent"/>
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablooDario"/> <br/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PablooDario&show_icons=true&rank_icon=github&theme=tokyonight&title_color=f9ff00&text_color=fff&bg_color=50,0c758e,5f3ba6&ring_color=f9ff00"/>
+<img align="left"  width="48%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablooDario&layout=donut-vertical&text_color=fff&bg_color=80,5f3ba6,042e74&title_color=f9ff00"/> <br/>
+
 
 
 # Languajes & Tools I Know 
