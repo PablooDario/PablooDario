@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/anuraghazra/github-readme-stats/assets/92002964/c1313257-e8d6-4039-952d-91d97923f697">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1750192580777325570/34439813918391F33D5B5A681CD1E2F8035056C2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 </p>
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">A 20 years old Data Science student</h3>
+<h3 align="center">A 21 years old Data Science student</h3>
 
 - 🔭 I love **data visualization**
 
