@@ -10,8 +10,7 @@
 
 - 💬 I like **Competitive Programming**
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PablooDario&show_icons=true&rank_icon=github&theme=tokyonight&title_color=f9ff00&text_color=fff&bg_color=50,0c758e,5f3ba6&ring_color=f9ff00"/>
-<img align="left"  width="48%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablooDario&layout=donut-vertical&text_color=fff&bg_color=80,5f3ba6,042e74&title_color=f9ff00"/> <br/>
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=PablooDario&show_icons=true&rank_icon=github&theme=tokyonight&title_color=f9ff00&text_color=fff&bg_color=50,0c758e,5f3ba6&ring_color=f9ff00"/><br/>
 
 
 
