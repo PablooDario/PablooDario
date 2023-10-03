@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1750192580777325570/34439813918391F33D5B5A681CD1E2F8035056C2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-</p>
+![tumblr_pxvvtiM71r1usc9y9o2_500](https://github.com/anuraghazra/github-readme-stats/assets/92002964/82279522-2dcd-49c2-9c7f-5ced252d8108)
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">A 21 years old Data Science student</h3>
 
