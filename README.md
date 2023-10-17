@@ -1,10 +1,4 @@
 ![tumblr_pxvvtiM71r1usc9y9o2_500](https://github.com/anuraghazra/github-readme-stats/assets/92002964/82279522-2dcd-49c2-9c7f-5ced252d8108)
-<h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">A 21 years old Data Science student</h3>
-
-- 🔭 I love **data visualization** and **Competitive Programming**
-
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=PablooDario&show_icons=true&rank_icon=github&theme=tokyonight&title_color=f9ff00&text_color=fff&bg_color=50,0c758e,5f3ba6&ring_color=f9ff00"/><br/>
 
 # Languages & Tools I Know 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
