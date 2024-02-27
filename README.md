@@ -18,4 +18,4 @@
 # Social Network
 <a href="https://codeforces.com/profile/atlantispablo" target="blank">![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)</a>
 <a href="https://www.leetcode.com/atlantispablo" target="blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-<a href="https://www.linkedin.com/in/pablo-s-469947268/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<!--<a href="https://www.linkedin.com/in/pablo-s-469947268/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> -->
